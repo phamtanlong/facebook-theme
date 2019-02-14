@@ -10,6 +10,6 @@ How it works:
 Improve idea:
 - Remove Facebook Ads by my custom frames etc.
 
-Demo:
+Demo: Replace Facebook reaction icons by my memes
 
 ![Facebook Custom UI](facebook-custom-ui.jpg)
